@@ -101,6 +101,17 @@ section {
 .section-header p {
   margin: 0 auto 0 auto;
 }
+.scroll-down {
+  position: absolute;
+  bottom: 20px; /* Ajusta según sea necesario */
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.scroll-down a {
+  color: #fff; /* Color del ícono */
+  font-size: 40px; /* Tamaño del ícono */
+}
 
 @media (min-width: 1199px) {
   .section-header p {
