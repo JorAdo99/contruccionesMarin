@@ -2677,3 +2677,13 @@ section {
 .footer .footer-legal .credits a {
   color: var(--color-primary);
 }
+.btn {
+  background-color: #feb900;
+  border-color: #feb900;
+  
+}
+.btn:hover {
+  background-color: #9b7307;
+  border-color: #feb900;
+  
+}
